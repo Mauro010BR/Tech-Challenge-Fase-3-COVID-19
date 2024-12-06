@@ -20,3 +20,15 @@ O Head de Dados solicitou que você acessasse a base de dados PNAD-COVID-19 do I
    
 Seu objetivo será realizar uma breve análise dessas informações, incluindo a organização do banco de dados, as perguntas selecionadas para resolver o problema e as principais ações que o hospital deverá tomar caso haja um novo surto de COVID-19.
 
+# Dicionário das Pastas
+
+-Data: Contém os arquivos CSV utilizados para extrair os dados da pesquisa.
+
+-Dictionary: Inclui o dicionário dos dados, descrevendo o significado e as possíveis variáveis para cada coluna nos arquivos de dados.
+
+-Images: Armazena imagens como fluxogramas e Diagramas de Entidade-Relacionamento (MER) que foram utilizados no processo de organização e análise dos dados.
+
+-Querys: Contém as consultas SQL que foram utilizadas para a criação da tabela no banco de dados na nuvem, facilitando o processo de organização e acesso aos dados.
+
+-Questions: Inclui as perguntas selecionadas para análise no trabalho, com base nas questões mais relevantes para o estudo do comportamento da população durante a pandemia de COVID-19.
+
