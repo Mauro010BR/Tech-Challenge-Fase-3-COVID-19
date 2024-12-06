@@ -22,8 +22,6 @@ Seu objetivo será realizar uma breve análise dessas informações, incluindo a
 
 # Dicionário das Pastas
 
--Data: Contém os arquivos CSV utilizados para extrair os dados da pesquisa.
-
 -Dictionary: Inclui o dicionário dos dados, descrevendo o significado e as possíveis variáveis para cada coluna nos arquivos de dados.
 
 -Images: Armazena imagens como fluxogramas e Diagramas de Entidade-Relacionamento (MER) que foram utilizados no processo de organização e análise dos dados.
