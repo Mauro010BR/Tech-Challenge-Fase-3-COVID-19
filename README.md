@@ -1,6 +1,5 @@
 # Tech Challenge Fase 3
 
-O Problema
 Você foi contratado(a) como Expert em Data Analytics por um grande hospital para entender o comportamento da população durante a pandemia de COVID-19 e identificar quais indicadores seriam importantes para o planejamento de um novo surto da doença.
 
 Apesar de ter sido contratado(a) agora, sua área de dados observou que a utilização do estudo PNAD-COVID-19 do IBGE seria uma excelente base para obter boas respostas ao problema proposto, pois são dados confiáveis. No entanto, não será necessário usar todas as perguntas da pesquisa, pois há dados específicos que podem fornecer as melhores oportunidades de análise.
